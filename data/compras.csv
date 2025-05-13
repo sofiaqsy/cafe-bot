@@ -1,0 +1,6 @@
+fecha,proveedor,cantidad,precio_kg,calidad,total,usuario,kg_disponibles,estado
+2025-05-03 08:52:34,José,50.0,3.4,Grado 1,170.0,Keyla,0.0,Procesado completamente
+2025-05-03 10:31:42,Rosa Café,10.0,5.0,Grado 1,50.0,Admin,0.0,Procesado completamente
+2025-05-05 14:22:15,Carlos Mendoza,25.0,4.2,Grado 2,105.0,Keyla,25.0,Pendiente
+2025-05-07 09:15:32,Finca El Mirador,100.0,3.8,Grado 1,380.0,Admin,50.0,Procesado parcialmente
+2025-05-10 11:05:43,Cooperativa Santa Rosa,75.0,4.5,Grado 1,337.5,Keyla,75.0,Pendiente
