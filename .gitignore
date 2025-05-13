@@ -1,0 +1,56 @@
+# Archivos y carpetas específicos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Entornos virtuales
+venv/
+ENV/
+env/
+
+# Archivos específicos de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Archivos específicos de Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos específicos de VS Code
+.vscode/
+*.code-workspace
+.history/
+
+# Archivos específicos del proyecto
+.env
+.env.local
+*.log
+*.xlsx
+*.xls
+
+# Carpetas locales
+data/ejemplo/
+
+# No ignorar archivos CSV de datos (necesarios para el bot)
+!data/*.csv
